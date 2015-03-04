@@ -1,0 +1,10 @@
+Four easy steps to success:
+
+1.) Assemble unweighted webs and body sizes for each node (SW).
+
+2.) Estimate link weights based on body size (RW & SW).
+
+3.) Determine relationship between TL predicted by weighted network vs TL predicted by dN15 (JY, SW).
+
+4.) Dirichlet distribution per consumer (JY).
+
